@@ -22,7 +22,7 @@
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
-  HTML | CSS | JavaScript | Python | React | Node.js | SQL| Java | Angular | C# |
+  HTML | CSS | JavaScript | Python | React | Node.js | SQL| Java | Angular | C# |Typescript |Next.js
 </p>
 <!-- GitHub Stats -->
 <p align="center">
@@ -33,5 +33,5 @@
 <!-- Contact Me -->
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  You can reach me at kiprotichkipchumba66@Gmail.com
+  You can reach me at kiprotichkipchumba66@gmail.com
 </p>
