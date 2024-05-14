@@ -506,27 +506,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
 
 
-<p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="[(https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/)"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
-  <img src="https://www.facebook.com/people/Deen-Ramah/pfbid022mU2TLD1Zu4Tr9NpzFstEdwkA3fKitiMw8NQkh3NJekPu2uS5aCkeJgmnVCgJUXZl/" />
- </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://www.fiverr.com/deen_66?up_rollout=true" />
- </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://www.facebook.com/people/Deen-Ramah/pfbid022mU2TLD1Zu4Tr9NpzFstEdwkA3fKitiMw8NQkh3NJekPu2uS5aCkeJgmnVCgJUXZl/"  />
-  </a> 
-</p>
-<br />
+
 
 <!-- About Section -->
  # About me
@@ -604,7 +584,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Deen Ramah graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
