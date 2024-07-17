@@ -87,14 +87,14 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/kipchumba-kiprotich-2b10b5279/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/DeenRamah/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.instagram.com/deen_ramah/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/DeenRamah/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/DeenRamah/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Deen Ramah" height="30" width="40" /></a>
   <a href="https://www.fiverr.com/deen_66?up_rollout=true" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
@@ -104,7 +104,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=DeenRamah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DeenRamah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=DeenRamah&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
  </p>
