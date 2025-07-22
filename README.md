@@ -4,7 +4,7 @@
 <!-- Subtitle -->
 <p align="center">Software Developer</p>
 
-### Hi there 👋 am kiprotich a proficient software developer adept excessively on both Front-End and Back-End
+### Hi there 👋 am kiprotich a proficient software developer adept excessively on both Front-End and Back-End..
 <!-- Title -->
 
 <!-- Subtitle -->
